@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWBalticSeaChessWFA", "JWBalticSeaChessWFA\JWBalticSeaChessWFA.csproj", "{989F5E4B-D956-4963-AAF6-416793640694}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWBalticSeaChessLibrary", "JWBalticSeaChessLibrary\JWBalticSeaChessLibrary.csproj", "{096ED0C6-AB19-4708-BE69-549E10B08698}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JWBalticSeaChessAIClient", "JWBalticSeaChessAIClient\JWBalticSeaChessAIClient.csproj", "{C581C9D9-0C07-4B5E-A82B-334292104211}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{FE595932-F9D3-451E-A5EC-5961915D2717}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\all\source\JWBalticSeaChess\reduced\baltic_see_chess_sheet_32x32_reduced.png = ..\..\..\..\all\source\JWBalticSeaChess\reduced\baltic_see_chess_sheet_32x32_reduced.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{989F5E4B-D956-4963-AAF6-416793640694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989F5E4B-D956-4963-AAF6-416793640694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989F5E4B-D956-4963-AAF6-416793640694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989F5E4B-D956-4963-AAF6-416793640694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{096ED0C6-AB19-4708-BE69-549E10B08698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096ED0C6-AB19-4708-BE69-549E10B08698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096ED0C6-AB19-4708-BE69-549E10B08698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096ED0C6-AB19-4708-BE69-549E10B08698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C581C9D9-0C07-4B5E-A82B-334292104211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C581C9D9-0C07-4B5E-A82B-334292104211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C581C9D9-0C07-4B5E-A82B-334292104211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C581C9D9-0C07-4B5E-A82B-334292104211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {034D960D-913A-4157-AF6F-6FF3C44B9485}
+	EndGlobalSection
+EndGlobal
